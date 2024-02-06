@@ -1,0 +1,6 @@
+export const USER_LIST_REQUEST = "USER_LIST_REQUEST";
+export const USER_LIST_RESPONSE = "USER_LIST_RESPONSE";
+
+export const LOADER = "LOADER";
+
+
